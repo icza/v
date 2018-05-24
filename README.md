@@ -27,4 +27,4 @@ V is a minimalist 3D labyrinth applet demo being less than 4 KB, 3D graphics cod
 
 ## Status
 
-The demo was developed in April, 2014. It is not maintained / developed anymore.
+The demo was developed between November 30, 2010 and December 12. It is not maintained / developed anymore.
