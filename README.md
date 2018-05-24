@@ -1,6 +1,7 @@
 # V
 
-V is a minimalist 3D labyrinth applet demo being less than 4 KB, 3D graphics coded manually.
+V is a minimalist 3D labyrinth applet demo being less than 4 KB, 3D graphics and
+rendering coded manually (no 3D library or API used).
 
 ## Features
 
