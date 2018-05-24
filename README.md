@@ -4,7 +4,8 @@ V is a minimalist 3D labyrinth applet demo being less than 4 KB, 3D graphics cod
 
 ## Features
 
-- Less than 4 KB applet jar (2685 bytes!)
+- Less than 4 KB applet jar (2685 bytes!), roughly 250 lines of code
+(without empty and comment lines)
 
 - Mouse control: move cursor to turn, fire (left click)
 
